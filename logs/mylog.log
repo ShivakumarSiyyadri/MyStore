@@ -1,0 +1,15 @@
+[INFO ] 2024-01-01 19:27:04.084 [main] MyStoreV1 - url opened
+[INFO ] 2024-01-01 19:27:05.784 [main] MyStoreV1 - clicked on signin link
+[INFO ] 2024-01-01 19:27:06.985 [main] MyStoreV1 - entered existing email and pswrd
+[INFO ] 2024-01-01 19:27:11.182 [main] MyStoreV1 - clicked on logIn button
+[INFO ] 2024-01-01 19:27:11.276 [main] MyStoreV1 - Verify user login - Failed
+[INFO ] 2024-01-02 09:09:30.136 [main] MyStoreV1 - url opened
+[INFO ] 2024-01-02 09:09:33.199 [main] MyStoreV1 - clicked on signin link
+[INFO ] 2024-01-02 09:09:35.786 [main] MyStoreV1 - entered existing email and pswrd
+[INFO ] 2024-01-02 09:09:43.355 [main] MyStoreV1 - clicked on logIn button
+[INFO ] 2024-01-02 09:09:45.265 [main] MyStoreV1 - Verify user login - Failed
+[INFO ] 2024-01-05 10:46:06.848 [main] MyStoreV1 - url opened
+[INFO ] 2024-01-05 10:46:09.377 [main] MyStoreV1 - clicked on signin link
+[INFO ] 2024-01-05 10:46:10.532 [main] MyStoreV1 - entered existing email and pswrd
+[INFO ] 2024-01-05 10:47:06.615 [main] MyStoreV1 - clicked on logIn button
+[INFO ] 2024-01-05 10:47:06.733 [main] MyStoreV1 - Verify user login - Passed
